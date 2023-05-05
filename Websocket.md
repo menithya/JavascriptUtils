@@ -13,3 +13,5 @@ Once a WebSocket connection is set up, four different events can take place:
 3 **error** - there is a problem with the connection
 
 4 **close** - the connection has been terminated
+
+Websocket provides two way communication
